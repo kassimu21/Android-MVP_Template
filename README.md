@@ -28,8 +28,8 @@ service: Services for the application.
 utils: Utility classes.
 Classes have been designed in such a way that it could be inherited and maximize the code reuse.
 Library reference resources:
-Dagger2: https://github.com/janishar/android-dagger2-example
-PlaceHolderView: https://github.com/janishar/PlaceHolderView
+Dagger2: https://github.com/kassimu21/android-dagger2-example
+PlaceHolderView: https://github.com/kassimu21/PlaceHolderView
 Calligraphy: https://github.com/chrisjenx/Calligraphy
 GreenDao: http://greenrobot.org/greendao/
 ButterKnife: http://jakewharton.github.io/butterknife/
@@ -63,7 +63,7 @@ Select the folder under which you want to create a new MVP folder. This MVP fold
 Blueprint
 
 License
-   Copyright (C) 2022 JANISHAR ALI ANWAR
+   Copyright (C) 2023 KASIMU SAMAILA
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
